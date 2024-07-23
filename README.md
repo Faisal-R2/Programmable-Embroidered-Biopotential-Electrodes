@@ -1,4 +1,4 @@
-# Programmable-Embroidered-Biopotential-Electrodes-with-Motion-Artifact-Removal
+# Programmable-Embroidered-Biopotential-Electrodes : - 
 
 This research work presents the development of flexible and wearable dry electrodes for EMG signal monitoring. The proposed Python tool generates machine files with extensions (.exp) and (.dst), which are compatible with embroidery machines from Janome, Brother, and Bernina for textile fabrications.
 
