@@ -6,9 +6,15 @@ All parameters are adjustable and controllable, including electrode dimensions, 
 
 In this work, we are providing the .dst and .exp files as open source on GitHub so that everyone can access and use these dry electrodes for their research work. This open-source initiative aims to foster collaboration and innovation among researchers by allowing them to modify, enhance, and apply the designs in various contexts.
 
-# Electrode Patterns 
+# Electrode Patterns : 
 ![Dry_Electrdoe](https://github.com/user-attachments/assets/3d78188b-6604-476e-a93b-1497a47090eb)
 # Machine File View
 ![DS22t](https://github.com/user-attachments/assets/49d93760-7ad8-46c7-8c72-07eeddf1faf8)
+
+# Single Thread : 
+![ELECTRODE_Single](https://github.com/user-attachments/assets/da3c1602-29d4-461a-82c2-5e9ca1effa71)
+![SIngle_Electrode](https://github.com/user-attachments/assets/a8121fc8-68b0-442c-b2dd-8a243ca9b43a)
+# Machine File View :  
+![Single](https://github.com/user-attachments/assets/de4da1d3-f578-467d-a277-54e69b43c9a1)
 
 
