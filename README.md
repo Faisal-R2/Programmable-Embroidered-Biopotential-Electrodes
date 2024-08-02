@@ -17,6 +17,10 @@ In this work, we are providing the .dst and .exp files as open source on GitHub 
 # Machine File View :  
 ![Single](https://github.com/user-attachments/assets/de4da1d3-f578-467d-a277-54e69b43c9a1)
 
+# Embroidred Electrode : 
+![EleCC-removebg-preview](https://github.com/user-attachments/assets/8a914eb2-0852-4d57-8882-3634ce037bea)
+
+############################################################################################################
 
 # 2nd : Electrode Patterns :     
 ![Circular_Shape](https://github.com/user-attachments/assets/47b83703-5d25-4ac3-aa55-4c3962872af0)
