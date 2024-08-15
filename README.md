@@ -12,9 +12,11 @@ In this work, we are providing the .dst and .exp files as open source on GitHub 
 #
 # Machine File View :
 ![DST_VIEW](https://github.com/user-attachments/assets/6d90a18d-9995-4d44-8904-ad2f5a6be71a)
-
 # 
 # Electrode With Guard Ring 
+![Electrode_Ring](https://github.com/user-attachments/assets/1f5a5634-fc3d-4a44-9059-6c3d57479db2)
+#
+# Machine File View :
+![DST](https://github.com/user-attachments/assets/dc4d1058-777e-47fb-818e-14105d83f608)
 
-
-
+#
