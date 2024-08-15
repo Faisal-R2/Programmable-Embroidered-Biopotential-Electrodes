@@ -7,9 +7,13 @@ All parameters are adjustable and controllable, including electrode dimensions, 
 In this work, we are providing the .dst and .exp files as open source on GitHub so that everyone can access and use these dry electrodes for their research work. This open-source initiative aims to foster collaboration and innovation among researchers by allowing them to modify, enhance, and apply the designs in various contexts.
 #
 # 1st : Electrode Patterns :   
-![Figure 2024-08-14 181541](https://github.com/user-attachments/assets/b5bdc692-6673-43c4-8a3f-6ddd842871ca)
+![Dry_eletrode](https://github.com/user-attachments/assets/305fe2d6-8375-44ca-9e17-8d74916c3160)
 #
 # Machine File View :
+![DST_VIEW](https://github.com/user-attachments/assets/6d90a18d-9995-4d44-8904-ad2f5a6be71a)
+
+# 
+# Electrode With Guard Ring 
 
 
 
