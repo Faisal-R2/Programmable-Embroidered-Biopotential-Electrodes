@@ -8,13 +8,7 @@ In this work, we are providing the .dst and .exp files as open source on GitHub 
 
 #
 # 1st : Electrode Patterns :   
-![Dry_eletrode](https://github.com/user-attachments/assets/305fe2d6-8375-44ca-9e17-8d74916c3160)
+![Electrode](https://github.com/user-attachments/assets/bc4840ee-44b8-4751-a269-427fadd4b3a8)
 #
 # Machine File View :
-![DST-100%-View](https://github.com/user-attachments/assets/d4d68e11-07b5-4bdd-8e5b-ddae3287381e)
-
-# 
-# Electrode With Guard Ring 
-# Machine File View :
-![DST](https://github.com/user-attachments/assets/e725d250-ff22-4951-ab97-dcf368535511)
-#
+![view](https://github.com/user-attachments/assets/c0ddc05d-e0f7-4cd6-a1ff-21f8c05d857f)
