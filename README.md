@@ -12,3 +12,6 @@ In this work, we are providing the .dst and .exp files as open source on GitHub 
 #
 # Machine File View :
 ![view](https://github.com/user-attachments/assets/c0ddc05d-e0f7-4cd6-a1ff-21f8c05d857f)
+
+# Fabricated Electrode 
+![Elex](https://github.com/user-attachments/assets/b7d96f6d-e0c9-4eef-b00a-63128562919d)
